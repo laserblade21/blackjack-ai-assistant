@@ -1,3 +1,9 @@
+# Blackjack AI Assistant
+
+## Overview
+
+**Blackjack AI Assistant** is an advanced, educational blackjack tool that combines a React-based web interface with a Python backend powered by FastAPI. It features a sophisticated AI decision engine that uses basic strategy, true count card counting (Hi-Lo system), and professional-level deviations to provide optimal play recommendations. The project is designed for learning, training, and exploring advanced blackjack strategy.
+
 ## Strategy Used
 
 This project uses a **hybrid blackjack strategy** that combines:
@@ -48,13 +54,6 @@ This project uses a **hybrid blackjack strategy** that combines:
 
 **This approach allows users to learn not just basic strategy, but also advanced card counting and professional deviations, all with clear explanations and analytics.**
 
-# Blackjack AI Assistant
-
-## Overview
-
-**Blackjack AI Assistant** is an advanced, educational blackjack tool that combines a React-based web interface with a Python backend powered by FastAPI. It features a sophisticated AI decision engine that uses basic strategy, true count card counting (Hi-Lo system), and professional-level deviations to provide optimal play recommendations. The project is designed for learning, training, and exploring advanced blackjack strategy.
-
----
 
 ## Features
 
