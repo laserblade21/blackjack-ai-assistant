@@ -232,7 +232,7 @@ def read_root():
     </html>
     """
 
-@app.post("/ai_decision")
+@app.post("/eyobsai_decision")
 def ai_decision(req: HandRequest):
     counter = EnhancedCardCounter(num_decks=req.num_decks)
     counter.running_count = req.running_count
