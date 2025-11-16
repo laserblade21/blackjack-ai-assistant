@@ -1,6 +1,8 @@
 <<<<<<< HEAD
 # Blackjack AI Assistant
 # Co-author test line
+Co-author test #2
+
 
 ## Overview
 
