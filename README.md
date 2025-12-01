@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Blackjack AI Assistant
 # Co-author test line
 Co-author test #2
@@ -379,3 +379,4 @@ Open an issue or submit a PR to help improve the project.
 - [Tesseract OCR](https://github.com/tesseract-ocr/tesseract)
 - Blackjack strategy resources from [Wizard of Odds](https://wizardofodds.com/)
 >>>>>>> 7ec446f (yolo)
+
